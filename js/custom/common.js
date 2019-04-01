@@ -22,7 +22,7 @@ $(function(){
         });
     });
 
-    $('.col-black').css("color", "black");
+    $('.pname').css("color", "black");
 
 
 
