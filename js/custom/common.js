@@ -19,9 +19,11 @@ $(function(){
         li_items.each(function(index) { 
             $(this).text(index + "Number");
             //alert($(this).text());
-             
         });
     });
+
+    $('.col-black').css("color", "black");
+
 
 
 });
